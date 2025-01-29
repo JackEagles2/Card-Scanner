@@ -1,0 +1,7 @@
+data/augmented_dataset/test/
+data/augmented_dataset/train/
+data/augmented_dataset/val/
+data/dataset_location/test/
+data/dataset_location/train/
+data/dataset_location/val/
+data/pokemon_cards/
