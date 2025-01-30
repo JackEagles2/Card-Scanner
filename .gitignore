@@ -1,7 +1,11 @@
-data/augmented_dataset/test/
-data/augmented_dataset/train/
-data/augmented_dataset/val/
-data/dataset_location/test/
-data/dataset_location/train/
-data/dataset_location/val/
+data/standard_dataset/test/
+data/standard_dataset/train/
+data/standard_dataset/val/
+data/dataset/test/
+data/dataset/train/
+data/dataset/val/
 data/pokemon_cards/
+results/
+models_card_locator/models/
+models_features/checkpoints/
+scripts/tools/__pycache__/
